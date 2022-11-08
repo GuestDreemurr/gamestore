@@ -1,2 +1,2 @@
-# game-appstore-site
+# gamestore
 game-appstore website
